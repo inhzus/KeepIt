@@ -28,10 +28,10 @@ other = "Words"
 other = "Tag"
 
 [Home]
-other = "Home"
+other = "主页"
 
 [back]
-other = "Back"
+other = "返回"
 
 [minute]
 other = "minute"
